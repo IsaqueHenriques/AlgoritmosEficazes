@@ -1,3 +1,3 @@
 # AlgoritmosEficazes
 Algoritmo Eficaz
-Repositório apenas para armazenar algoritmos "eficientes" 
+é um repositório apenas para armazenar algoritmos "eficientes" 
